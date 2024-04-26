@@ -1,0 +1,8 @@
+titanic#PassengerId#int#Survived#int#Pclass#int#Name#string#Sex#string#Age#int#SibSp#int#Parch#int#Ticket#string#Fare#double#Cabin#string#Embarked
+charpapas#tipo#string #peso#int #precio#float 
+papas#peso#int #modelo#string 
+nose#nombe#telefono#direccion#string#edad#int#casado#varchar
+asd#sadef#sdf
+masa#nombre#string#tipo#string#tiempo#int
+titanic#pelas#asd#pela#titac
+Age#PassengerId#int#Survived#int#Pclass#int#Name#string#Sex#string#Age#int#SibSp#int#Parch#int#Ticket#string#Fare#double#Cabin#string#Embarked
